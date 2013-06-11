@@ -8,3 +8,8 @@ This method utilizes the code used in the sample code but inserts the hidden fie
 to be passed as DPM.
 
 To test the code, setup a test acccount at https://test.authorize.net/ and edit vars.cfm with your variables.
+
+Note that this code also used hmac.cfm and md5.cfm that are distributed in the Authorize.net sample code.  
+The sample files can be downloaded here: http://developer.authorize.net/resources/files/samplecode/cf_sim.zip
+
+
