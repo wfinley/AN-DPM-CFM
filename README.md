@@ -8,7 +8,7 @@ This method utilizes the code used in the sample code but inserts the hidden fie
 to be passed as DPM.
 
 To test the code, setup a test acccount at https://test.authorize.net/, edit vars.cfm with your variables 
-and then point your browser to http://YOUR-DOMAIN-NAME/paymentform.cfm
+and then point your browser to http://YOUR_DOMAIN_NAME/paymentform.cfm
 
 Note that this code also uses the custom tags hmac.cfm and md5.cfm that are distributed in the Authorize.net 
 sample code.  I have included those files in these test files for ease of implementation.
